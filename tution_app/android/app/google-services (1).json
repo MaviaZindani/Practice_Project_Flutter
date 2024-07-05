@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "630434790044",
+    "project_id": "database-ac3d2",
+    "storage_bucket": "database-ac3d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630434790044:android:d20c4b1bacc692d7e90b59",
+        "android_client_info": {
+          "package_name": "com.example.tution_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUF6tapb97hVF5Pt-ur0oJ76dCRb5zkz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

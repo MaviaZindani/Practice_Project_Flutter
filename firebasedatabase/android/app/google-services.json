@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "407922787658",
+    "firebase_url": "https://database-3c99c-default-rtdb.firebaseio.com",
+    "project_id": "database-3c99c",
+    "storage_bucket": "database-3c99c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407922787658:android:c468b509db52d37d706db3",
+        "android_client_info": {
+          "package_name": "com.tachease.dumy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmjo2LC1eWfd28tKQQgKp1hbckF0-6Cto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
